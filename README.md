@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Anand</h1>
 
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/fsfWecNAXZxv7oKy80op3074tOyDzFYMLqxlFBT_YZU/rs:fit:498:277:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy9iYTZk/N2QzN2ZhMWU0Y2E5/NjZhYzczMjhiZjQz/Yjk2Yy90ZW5vci5n/aWY_aXRlbWlkPTE4/NjU3ODEw.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh258&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh258" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ashutosh_says" target="blank"><img src="https://img.shields.io/twitter/follow/ashutosh_says?logo=twitter&style=for-the-badge" alt="ashutosh_says" /></a> </p>
