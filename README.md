@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱  currently learning **Nextjs**
 
 - 💬 Ask me about **HTML,CSS ,Javascript ,Reactjs**
 
